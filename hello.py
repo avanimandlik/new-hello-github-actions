@@ -1,2 +1,2 @@
-print("My first CI pipeline!")
-print("GitHub Actions is running successfully")
+print("Hello Mentor!")
+print("GitHub Actions executed this automatically")
