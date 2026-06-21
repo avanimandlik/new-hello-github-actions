@@ -1,1 +1,2 @@
-print("Hello from GitHub Actions!")
+print("My first CI pipeline!")
+print("GitHub Actions is running successfully")
