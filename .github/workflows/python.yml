@@ -18,5 +18,11 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install testing tools
+        run: pip install pytest
+
+      - name: Run tests
+        run: pytest
+
       - name: Run Python script
         run: python hello.py
